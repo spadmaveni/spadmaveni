@@ -1,8 +1,6 @@
 - 👋 Hi, I’m S. Padmaveni
-- 👀 I’m interested in Making the websites
-- 🌱 I’m currently learning the MERN stack
-- 💞️ I’m looking to collaborate on MERN stack real time Projects
-- 📫 How to reach me ... Mail me s.padmaveni@gmail.com
+- 👀 I’m interested in Programming languages 
+- 📫 How to reach me ... Mail me padmaveni2000@gmail.com
 
 <!---
 spadmaveni/spadmaveni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
